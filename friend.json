@@ -1,0 +1,54 @@
+{
+  "friends": [
+    [
+      "spark",
+      "https://aspark.cc",
+      "https://www.aspark.cc/img/avatar.webp"
+    ],
+    [
+      "時光",
+      "https://blog.shiguangdev.cn",
+      "https://blog.shiguangdev.cn/img/avatar.png"
+    ],
+    [
+      "梦爱吃鱼",
+      "https://blog.bsgun.cn",
+      "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
+    ],
+    [
+      "一粒微尘",
+      "https://blog.667408.xyz",
+      "https://blog.667408.xyz/favicon.ico"
+    ],
+    [
+      "青稚の空间",
+      "https://blog.linux-qitong.top",
+      "https://blog.linux-qitong.top/img/avatar.jpg"
+    ],
+    [
+      "第二站点（kami）",
+      "https://blog-bk.xiaohan-kaka.me/",
+      "https://f003.backblazeb2.com/file/blog-v3/120887894_p1.jpg"
+    ],
+    [
+      "xlog分站",
+      "https://xlog.xiaohan-kaka.me/",
+      "https://f003.backblazeb2.com/file/blog-v3/120887894_p1.jpg"
+    ],
+    [
+      "浅草物语",
+      "https://www.chillg.top",
+      "https://pic.imgdb.cn/item/65192187c458853aef9f07c7.png"
+    ],
+    [
+      "FloatSheep's Blog",
+      "https://blog.hesiy.cn",
+      "https://registry.npmmirror.com/@floatsheep/fsl-fim/1.0.23/files/avatar%202024.black.webp"
+    ],
+    [
+      "HiPeach",
+      "https://blog.opeach.cn",
+      "https://npm.elemecdn.com/opicture@1.0.0/main/avatar.webp"
+    ]
+  ]
+}
